@@ -1,5 +1,5 @@
 
-# PROJETO INDIVIDUAL DE CONCLUSÃO DE CURSO
+# PROJETO INICIAL
 
 Criar um Sistema para gerenciar o patrimônio de uma escola.(backend, web e/ou mobile)
 
